@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Community Driven Open Source Projects in Web Development**
 
-- 👨‍💻 All of my projects are available at [https://velozerick.github.io/Mi-portafolio/Portafolio.html](https://velozerick.github.io/Mi-portafolio/Portafolio.html)
+- 👨‍💻 All of my projects are available at [https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html]([https://velozerick.github.io/Mi-portafolio/Portafolio.html](https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html#))
 
 - 📫 How to reach me **velozer_savgo@outlook.com**
 
