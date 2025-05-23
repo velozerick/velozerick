@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm Erick Veloz</h1>
-<h3 align="center">A versatile freelance software developer from Mexico City, specializing in web development, home automation, and mobile app design.</h3>
+### Hi 👋, I'm Erick Veloz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velozerick&label=Profile%20views&color=0e75b6&style=flat" alt="velozerick" /> </p>
+Web and mobile app developer with a creative mindset and a passion for building **real, useful, and purposeful software**.  
+I believe **coding is imagination with intention** — I don’t write code just to code, I create to solve, improve, and bring ideas to life.
 
-- 🔭 I’m currently working on [Astroveloxer](https://github.com/velozerick/ASTROVELOXER)
+I enjoy working on systems that combine functionality, clean design, and user experience.  
+Always learning, always building, and always looking for ways to turn simple ideas into impactful solutions.
 
-- 👯 I’m looking to collaborate on **Community Driven Open Source Projects in Web Development**
+---
 
-- 👨‍💻 All of my projects are available at [https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html]
+### 🧠 What I focus on
+- Web development (frontend & backend)  
+- Mobile apps (native or cross-platform)  
+- Building complete systems for real-world use  
+- Creating clean, efficient, and user-friendly interfaces  
+- Writing meaningful code with long-term value  
 
-- 📫 How to reach me **velozer_savgo@outlook.com**
+---
 
+### 🛠️ Languages and Tools
 
-<p align="left">
-</p>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velozerick&show_icons=true&locale=en&layout=compact" alt="velozerick" /></p>
+### 📫 How to reach me
 
+- Portfolio: [velozerick.github.io/PORTAFOLIO_ERICK_VELOZ](https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html)  
+- LinkedIn: [erick-salvador-veloz-gonzalez](https://www.linkedin.com/in/erick-salvador-veloz-gonzalez-50137a32a)  
+- Email: velozer_savgo@outlook.com  
