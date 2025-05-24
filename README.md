@@ -1,37 +1,55 @@
-### Hi 👋, I'm Erick Veloz
+<h2 align="left">Hi 👋! My name is Erick Veloz and I'm a web and mobile app developer with a creative mindset and a passion for building real, useful, and purposeful software.  
+I believe that **coding is imagination with intention** — I don't write code just to code, I write to solve, create, and transform ideas into real experiences.</h2>
 
-Web and mobile app developer with a creative mindset and a passion for building **real, useful, and purposeful software**.  
-I believe **coding is imagination with intention** — I don’t write code just to code, I create to solve, improve, and bring ideas to life.
+###
 
-I enjoy working on systems that combine functionality, clean design, and user experience.  
-Always learning, always building, and always looking for ways to turn simple ideas into impactful solutions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=velozerick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velozerick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
----
+###
+<img align="right" height="150" src="https://github.com/user-attachments/assets/4ecfdb57-e29e-48fa-906c-8240c099f7b0" />
 
-### 🧠 What I focus on
-- Web development (frontend & backend)  
-- Mobile apps (native or cross-platform)  
-- Building complete systems for real-world use  
-- Creating clean, efficient, and user-friendly interfaces  
-- Writing meaningful code with long-term value  
 
----
+###
 
-### 🛠️ Languages and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+</div>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+###
 
----
+<div align="left">
+  <a href="mailto:velozer_savgo@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/erick-salvador-veloz-gonzalez-50137a32a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+</div>
 
-### 📫 How to reach me
+###
 
-- Portfolio: [velozerick.github.io/PORTAFOLIO_ERICK_VELOZ](https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html)  
-- LinkedIn: [erick-salvador-veloz-gonzalez](https://www.linkedin.com/in/erick-salvador-veloz-gonzalez-50137a32a)  
-- Email: velozer_savgo@outlook.com  
+<br clear="both" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
