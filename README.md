@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Erick Veloz and I'm a web and mobile app developer with a creative mindset and a passion for building real, useful, and purposeful software.  
-I believe that **coding is imagination with intention** — I don't write code just to code, I write to solve, create, and transform ideas into real experiences.</h2>
+I believe that   coding is imagination with intention   ,I don't write code just to code, I write to solve, create, and transform ideas into real experiences.</h2>
 
 ###
 
