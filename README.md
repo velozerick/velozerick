@@ -1,5 +1,6 @@
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/4ecfdb57-e29e-48fa-906c-8240c099f7b0" />
+<img width="100%"  src="https://github.com/user-attachments/assets/507d7e86-0a4b-416a-a1da-7d5d7e562390" />
+
 
 
 
@@ -45,6 +46,7 @@ I believe that   coding is imagination with intention   ,I don't write code just
   <a href="https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
+
 </div>
 
 ###
