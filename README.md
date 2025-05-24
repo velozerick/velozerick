@@ -1,4 +1,4 @@
-
+<img align="right" height="150" src="https://github.com/user-attachments/assets/4ecfdb57-e29e-48fa-906c-8240c099f7b0" />
 
 
 
@@ -12,11 +12,6 @@ I believe that   coding is imagination with intention   ,I don't write code just
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velozerick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
-<img align="right" height="150" src="https://github.com/user-attachments/assets/4ecfdb57-e29e-48fa-906c-8240c099f7b0" />
-
-
-###
 
 
 <h2>🚀 Languages and Tools I Use</h2>
