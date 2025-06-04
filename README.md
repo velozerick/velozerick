@@ -43,7 +43,10 @@ I believe that   coding is imagination with intention   ,I don't write code just
   <a href="https://www.linkedin.com/in/erick-salvador-veloz-gonzalez-50137a32a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://velozerick.github.io/PORTAFOLIO_ERICK_VELOZ/Erick_Veloz.html" target="_blank">
+  <a href="https://velozerick.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+   <a href="https://salvadorg.velozerick.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 
