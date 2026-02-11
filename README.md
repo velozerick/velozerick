@@ -11,19 +11,12 @@ For me, programming is not about writing code fast — it's about designing logi
 From web platforms to hardware-integrated projects, I enjoy understanding how systems work internally and rebuilding them with clarity and purpose.
 
 I'm not learning to code quickly.
-I'm learning to think like an engineer.
+I'm learning to think.
 </h2>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velozerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velozerick&layout=compact&theme=dracula" height="150" />
-</div>
-
----
 
 <h2>🚀 Core Stack</h2>
 
@@ -87,8 +80,10 @@ Vision turned into something tangible.
 </div>
 
 ---
+<br clear="both" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velozerick/velozerick/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/velozerick/velozerick/output/github-snake.svg" />
 </picture>
