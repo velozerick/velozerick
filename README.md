@@ -3,7 +3,7 @@
 <h2 align="left">
 Hi 👋 I'm Erick Veloz.
 
-I build real systems — not just apps.
+I build real systems
 
 Currently focused on Python backend development, database-driven systems, and clean software architecture.
 For me, programming is not about writing code fast — it's about designing logic, structuring solutions, and building software that actually solves real-world problems.
