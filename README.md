@@ -46,7 +46,7 @@ I'm learning to think.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=velozerick&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=velozerick&theme=dark&hide_border=true" />
 </p>
 
