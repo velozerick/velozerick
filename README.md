@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="./assets/banner.png" />
+<img width="100%" src="./assets/newb.jpg" />
 
 # Hi 👋 I'm Erick Veloz
 
