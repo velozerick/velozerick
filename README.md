@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/d0a74a27-abe6-472e-9e34-c5cdb37b7aae" />
+<img width="100%" src="./assets/banner.png" />
 
 # Hi 👋 I'm Erick Veloz
 
