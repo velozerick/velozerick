@@ -1,37 +1,29 @@
 <!-- Banner -->
-<img width="100%" src="./assets/banngit.png" />
+<img width="100%" src="./assets/banner.png" />
 
 # Hi 👋 I'm Erick Veloz
 
-### I design and build real-world backend systems
+### Imagine. Code. Create.
 
 ---
 
 ## 🧠 Philosophy
 
-Programming is not about writing code fast.  
-It's about designing logic, structuring solutions, and building systems that solve real problems.
+Programming is not just writing code.  
+It's about logical design, structuring solutions, and building systems that solve real-world problems.
 
-I'm not learning to code quickly.  
+I'm not just learning to code.  
 I'm learning to think.
-
----
-
-## 🐍 Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/velozerick/velozerick/output/github-snake.svg" />
-</p>
 
 ---
 
 ## 🚀 About Me
 
 - Backend-focused developer working with **Python and databases**
-- Building **real systems**, not just practice projects
-- Focused on **clean architecture and structured development**
-- Interested in how systems work internally and how to design them properly
-- Developing technology as part of a growing IT services initiative
+- Building systems, not just practice projects
+- Focused on **clean structure and well-organized development**
+- Interested in understanding how systems work internally and how to design them properly
+- Developing technology as part of a growing **IT services initiative**
 
 ---
 
@@ -54,7 +46,7 @@ I'm learning to think.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velozerick&layout=compact&theme=dark&langs_count=6&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=velozerick&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=velozerick&theme=dark&hide_border=true" />
 </p>
 
@@ -71,8 +63,8 @@ I'm learning to think.
 ## 🧠 Currently Working On
 
 - Advanced Python (functions, modular design, architecture)
-- Backend development with Flask
-- SQL integration with real systems
+- Backend development with Flask and Django
+- SQL integration 
 - Clean Code principles
 - Building scalable backend systems
 
@@ -82,9 +74,7 @@ I'm learning to think.
 
 Building backend systems, automation tools, and structured software solutions that integrate logic, clarity, and real-world impact.
 
-Coding is structure.  
-Discipline.  
-Vision turned into reality.
+Imagine. Code. Create.
 
 ---
 
